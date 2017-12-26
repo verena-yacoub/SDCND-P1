@@ -49,5 +49,5 @@ Noting that, The current pipeline works on all provided videos including the cha
 
 [4] https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_gui/py_video_display/py_video_display.html (for video reading and frames extraction)
 
-_To be more specific: the methodology of finding slopes was adopted from one of the defined methods in reference [1] with some amendments, the preprocessing steps and houghlines methods were adopted from Udacity course provided in class._
----
+_To be more specific: the methodology of finding slopes was adopted from one of the defined methods in reference [1] with some amendments, and the preprocessing steps along with houghlines methods were adopted from Udacity course provided in class._
+
